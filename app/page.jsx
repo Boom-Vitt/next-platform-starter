@@ -73,11 +73,11 @@ export default function Page() {
                     <h3 className="text-xl font-semibold">EarEssence Co., Ltd.</h3>
                     <p className="italic text-gray-600">AI Full Stack Engineer | Bangkok, Thailand | May 2023 – Present</p>
                     <ul className="list-disc list-inside ml-4 mt-2">
-                        <li>Spearheaded the "Map Analytics Platform," enhancing business decision-making by integrating heatmaps and location based data analytics using Python, Flask, React, and AWS.</li>
-                        <li>Developed "EduBuddy (MU Chat)," an AI chatbot for Mahidol University, using Node.js, Python, LangChain, and AWS, improving student engagement and support.</li>
-                        <li>Created an "AI Agents Course Platform" with Next.js, Node.js, and AWS, focusing on scalable AI model deployment and LLM integration.</li>
-                        <li>Engineered the "CRA Landing Website" using Next.js and AWS, resulting in a 30% increase in user engagement.</li>
-                        <li>Built the "Salayte Hashery Mobile App" with React Native and AWS, streamlining operations for a local business.</li>
+                        <li>Spearheaded the &quot;Map Analytics Platform,&quot; enhancing business decision-making by integrating heatmaps and location based data analytics using Python, Flask, React, and AWS.</li>
+                        <li>Developed &quot;EduBuddy (MU Chat),&quot; an AI chatbot for Mahidol University, using Node.js, Python, LangChain, and AWS, improving student engagement and support.</li>
+                        <li>Created an &quot;AI Agents Course Platform&quot; with Next.js, Node.js, and AWS, focusing on scalable AI model deployment and LLM integration.</li>
+                        <li>Engineered the &quot;CRA Landing Website&quot; using Next.js and AWS, resulting in a 30% increase in user engagement.</li>
+                        <li>Built the &quot;Salayte Hashery Mobile App&quot; with React Native and AWS, streamlining operations for a local business.</li>
                     </ul>
                     <div className="mt-4">
                         <h4 className="font-semibold">Company Projects:</h4>
