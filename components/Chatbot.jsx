@@ -8,7 +8,7 @@ const Chatbot = () => {
     const [isLoading, setIsLoading] = useState(false);
     const chatDisplayRef = useRef(null);
 
-    const n8nWebhookUrl = 'https://your-n8n-webhook-url.com/placeholder'; // Placeholder URL
+    const n8nWebhookUrl = 'https://7f1f-223-206-189-83.ngrok-free.app/webhook-test/b19050d0-97ef-4a68-986d-f5575059afdc'; // Updated Webhook URL
 
     // Automatically scroll to the bottom of the chat display when new messages are added
     useEffect(() => {
